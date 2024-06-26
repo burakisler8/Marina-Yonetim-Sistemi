@@ -1,0 +1,7 @@
+Marina src klasörünün içerisinde yatlar sql tablosu bulunmakta.
+kullanıcı adı=admin
+şifre=admin123
+
+jar dosyası out/artifacts klasörünün içinde bulunup 3306 portunda çalışmaktadır.
+
+Teşekkürler.
